@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm a data scientist, adjunct professor, and advisor to startups
 
 <!--
 **vjavaly/vjavaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
