@@ -1,4 +1,4 @@
-### I'm a data scientist, adjunct professor, advisor an mentor to startups
+### I'm a data scientist, adjunct professor, advisor and mentor to startups
 
 <!--
 **vjavaly/vjavaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
